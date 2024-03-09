@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+My+Friend!;+I'm+Pedro+Pacheco!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+My+Friend!;+I'm+Pedro+Pacheco!;" alt="pedrorfpacheco_presentation"/>
 </h1>
 
 <h3 align="center">A passionate software developer from Portugal 🇵🇹 </h3>
@@ -13,6 +13,15 @@
 - 💬 Ask me about **Java, Microsservices**
 - 📫 How to reach me **pedrorfpacheco.dev@gmail.com**
 - ⚡ Fun fact **I'm funny**
+
+<hr/>
+
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,rabbitmq,docker,spring,gcp,postman,mongodb,mysql,git,github,gitlab,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,npm,react,mui,html,css,cypress,notion,idea,webstorm" /><br>
+</div>
 
 <hr/>
 
