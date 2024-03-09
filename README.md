@@ -4,15 +4,25 @@
 
 <h3 align="center">A passionate software developer from Portugal 🇵🇹 </h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47qa1mxir8mwkpbwxo9x0bj3i60fy4cz8la7x1f6jw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <br/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47qa1mxir8mwkpbwxo9x0bj3i60fy4cz8la7x1f6jw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 👋 Hi, I’m **@pedrorfpacheco**
 - 🌱 I’m currently learning **Node.js**
 - 💬 Ask me about **Java, Microsservices**
 - 📫 How to reach me **pedrorfpacheco.dev@gmail.com**
 - ⚡ Fun fact **I'm funny**
+  
+<br/>
+
+[![Email](https://img.shields.io/badge/-email-gray?style=for-the-badge&logo=gmail&labelColor=gray)](mailto:pedrorfpacheco.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pedrorfpacheco/)
+[![GitHub](https://img.shields.io/badge/-github-purple?style=for-the-badge&logo=github&labelColor=purple)](https://github.com/pedrorfpacheco)
+[![DEV.TO](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to&labelColor=black&link=https%3A%2F%2Fdev.to%2Fpedrorfpacheco%2F)](https://dev.to/pedrorfpacheco/)
+<a href="https://pedrorfpacheco.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
+<br/>
 
 <hr/>
 
